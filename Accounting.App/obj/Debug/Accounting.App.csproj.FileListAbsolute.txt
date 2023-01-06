@@ -1,0 +1,101 @@
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojResolveAssemblyReference.cache
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.Cache
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\Accounting.Utility.dll
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\Accounting.Utility.pdb
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomrs.resources
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewtransaction.resources
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\obj\Debug\Accounting.App.Accounting.frmReport.resources
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\obj\Debug\Accounting.App.frmLogin.resources
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.dll
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.dll
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.xml
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.xml
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\Accounting.Business.dll
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.App\bin\Debug\Accounting.Business.pdb
+H:\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+H:\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+H:\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+H:\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+H:\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+H:\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.Business.dll
+H:\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+H:\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.Utility.dll
+H:\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+H:\madaeni\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+H:\madaeni\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+H:\madaeni\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.dll
+H:\madaeni\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.Win.dll
+H:\madaeni\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.dll
+H:\madaeni\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.Win.dll
+H:\madaeni\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.dll
+H:\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.Business.pdb
+H:\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+H:\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.Utility.pdb
+H:\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+H:\madaeni\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+H:\madaeni\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+H:\madaeni\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.xml
+H:\madaeni\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.xml
+H:\madaeni\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.xml
+H:\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojResolveAssemblyReference.cache
+H:\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.Accounting.frmReport.resources
+H:\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomrs.resources
+H:\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+H:\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+H:\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewtransaction.resources
+H:\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.frmLogin.resources
+H:\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+H:\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.Cache
+D:\c# Learning\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+D:\c# Learning\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+D:\c# Learning\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+H:\c# Learning\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+H:\c# Learning\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+H:\c# Learning\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+H:\c# Learning\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+H:\c# Learning\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+H:\c# Learning\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.Business.dll
+H:\c# Learning\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+H:\c# Learning\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.Utility.dll
+H:\c# Learning\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+H:\c# Learning\madaeni\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+H:\c# Learning\madaeni\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+H:\c# Learning\madaeni\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.dll
+H:\c# Learning\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.Business.pdb
+H:\c# Learning\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+H:\c# Learning\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.Utility.pdb
+H:\c# Learning\madaeni\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+H:\c# Learning\madaeni\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+H:\c# Learning\madaeni\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+H:\c# Learning\madaeni\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.xml
+H:\c# Learning\madaeni\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.xml
+H:\c# Learning\madaeni\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.xml
+H:\c# Learning\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojResolveAssemblyReference.cache
+H:\c# Learning\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.Accounting.frmReport.resources
+H:\c# Learning\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomrs.resources
+H:\c# Learning\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+H:\c# Learning\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+H:\c# Learning\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewtransaction.resources
+H:\c# Learning\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.frmLogin.resources
+H:\c# Learning\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+H:\c# Learning\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.Cache

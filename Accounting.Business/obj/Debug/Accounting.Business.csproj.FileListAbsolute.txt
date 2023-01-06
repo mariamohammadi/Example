@@ -1,0 +1,22 @@
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.dll
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.Business\bin\Debug\EntityFramework.dll
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.Business\bin\Debug\EntityFramework.xml
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csprojResolveAssemblyReference.cache
+H:\c# Learning\madaeni\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+H:\c# Learning\madaeni\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+H:\c# Learning\madaeni\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll
+H:\c# Learning\madaeni\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.dll
+H:\c# Learning\madaeni\Accounting\Accounting.Business\bin\Debug\EntityFramework.dll
+H:\c# Learning\madaeni\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.pdb
+H:\c# Learning\madaeni\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.pdb
+H:\c# Learning\madaeni\Accounting\Accounting.Business\bin\Debug\EntityFramework.xml
+H:\c# Learning\madaeni\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csprojResolveAssemblyReference.cache
+H:\c# Learning\madaeni\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+H:\c# Learning\madaeni\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb

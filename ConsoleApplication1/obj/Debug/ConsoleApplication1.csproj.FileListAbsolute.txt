@@ -1,0 +1,12 @@
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\ConsoleApplication1\bin\Debug\Accounting.DataLayer.dll
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\ConsoleApplication1\bin\Debug\EntityFramework.dll
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\ConsoleApplication1\bin\Debug\Accounting.DataLayer.pdb
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\ConsoleApplication1\bin\Debug\EntityFramework.xml
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml

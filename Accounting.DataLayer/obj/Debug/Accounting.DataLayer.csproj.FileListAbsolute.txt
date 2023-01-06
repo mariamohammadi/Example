@@ -1,0 +1,24 @@
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csprojResolveAssemblyReference.cache
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.dll
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.pdb
+H:\c# Learning\madaeni\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+H:\c# Learning\madaeni\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+H:\c# Learning\madaeni\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+H:\c# Learning\madaeni\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.dll
+H:\c# Learning\madaeni\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+H:\c# Learning\madaeni\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+H:\c# Learning\madaeni\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.pdb
+H:\c# Learning\madaeni\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+H:\c# Learning\madaeni\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+H:\c# Learning\madaeni\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csprojResolveAssemblyReference.cache
+H:\c# Learning\madaeni\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+H:\c# Learning\madaeni\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb

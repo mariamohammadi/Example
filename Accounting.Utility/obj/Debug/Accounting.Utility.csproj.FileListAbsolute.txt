@@ -1,0 +1,10 @@
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+c:\users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
+C:\Users\maryam\documents\visual studio 2015\Projects\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csprojResolveAssemblyReference.cache
+H:\c# Learning\madaeni\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+H:\c# Learning\madaeni\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+H:\c# Learning\madaeni\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csprojResolveAssemblyReference.cache
+H:\c# Learning\madaeni\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+H:\c# Learning\madaeni\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
