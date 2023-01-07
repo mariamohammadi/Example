@@ -99,3 +99,6 @@ H:\c# Learning\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNew
 H:\c# Learning\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.frmLogin.resources
 H:\c# Learning\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
 H:\c# Learning\madaeni\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.Cache
+H:\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+H:\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+H:\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
